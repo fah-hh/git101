@@ -1,1 +1,1 @@
-new-1.txt by git102 แก้แล้วจริงๆ1
+new-1.txt by git102 แก้1
